@@ -1,0 +1,5 @@
+/Users/dusty/Projects/Portraits/Portraits/obj/Debug/Portraits.csprojAssemblyReference.cache
+/Users/dusty/Projects/Portraits/Portraits/bin/Debug/Portraits.dll
+/Users/dusty/Projects/Portraits/Portraits/bin/Debug/Portraits.pdb
+/Users/dusty/Projects/Portraits/Portraits/obj/Debug/Portraits.dll
+/Users/dusty/Projects/Portraits/Portraits/obj/Debug/Portraits.pdb

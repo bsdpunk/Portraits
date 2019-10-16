@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Portraits",
+  "Author": "bsdpunk",
+  "Version": "1.0",
+  "Description": "Adds Portraits",
+  "UniqueID": "bsdpunk.Portraits",
+  "EntryDll": "Portraits.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}
